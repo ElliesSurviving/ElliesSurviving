@@ -1,7 +1,7 @@
 # Heya!!
 ### Im not smart, dont let this fool you
 
-#### Most stuff on my twitter (pls follow) twitter.com/ElliesSurviving
+#### Most stuff on my twitter (pls follow) https://twitter.com/ElliesSurviving
 
 #### iOS jailbreaking, getting into security research and pentesting (maybe)
 
