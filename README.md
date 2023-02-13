@@ -7,7 +7,7 @@
 
 ## Current active devices
 #### iPhone 11 on the latest Developer Beta version
-#### iPhone 6s on iOS 15.2 (jailbroken, semi-tethered w/ fakefs)
+#### research iPhone 6s on iOS 15.2 (jailbroken, semi-tethered w/ fakefs)
 #### iPad 7th gen on iOS 15.6 RC 1 (jailbroken, tethered :3)
 
 ## Current projects
