@@ -7,8 +7,8 @@
 
 ## Current active devices
 #### iPhone 11 on the latest Developer Beta version
-#### research iPhone 6s on iOS 15.2 (jailbroken, semi-tethered w/ fakefs)
-#### iPad 7th gen on iOS 15.6 RC 1 (jailbroken, tethered :3)
+#### research iPhone 6s on iOS 15.2 (jailbroken, semi-tethered w/ bindfs)
+#### iPad 7th gen on iOS 15.6 RC 1 (jailbroken, semi-tethered w/ bindfs)
 
 ## Current projects
 #### (Maybe) sideloadable cydia?
