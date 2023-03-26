@@ -6,11 +6,11 @@
 #### iOS jailbreaking, getting into security research and pentesting (maybe)
 
 ## Current active devices
-#### iPhone 11 on the latest iOS developer beta version
-#### research iPhone 6s on iOS 15.2 (currently unjailbroken)
+#### iPhone 11 on the latest iOS developer beta version (obv unjailbroken)
+#### research iPhone 6s on iOS 15.2 (jailbroken, rootless)
 #### iPad 7th gen on iOS 15.6 RC 1 (jailbroken, rootless)
 #### research iPhone X on iOS 16.3.1 (jailbroken, rootless)
 
 ## Current projects
-#### (Maybe) sideloadable cydia?
+#### no
 
