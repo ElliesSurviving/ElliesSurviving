@@ -1,9 +1,9 @@
-# I use Arch BTW
+# I am ELLIE (ElliesSurviving)!
 
-## yeah, i use arch btw
+## Im just a young girl who enjoys doing things she was never meant to with Apple devices
 
-## did i ever tell u that i use arch btw
+## Im also an Arch Linux user!
 
-## oh and yea i use arch btw
+## I have a repo: https://elliessurviving.github.io/cydia
 
-## have u taken it in, that i use arch btw
+## Finally: dont expect any professional shit here, im the complete opposite
